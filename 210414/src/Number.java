@@ -10,6 +10,7 @@ public class Number {
 	        int num=sc.nextInt();
 	        
 	        int []arr=new int[10];
+	        
 
 	        for(int a=0; a<10; a++){
 	            arr[a]=(int)(Math.random()*50+1);
