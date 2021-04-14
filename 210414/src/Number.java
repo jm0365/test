@@ -25,7 +25,7 @@ public class Number {
 	        	else {
 	        		System.out.println("꽝! 다음기회에~");
 	        		break;
-	        	}
+	        	} //주석주석
 	        }
 	        
 	}
